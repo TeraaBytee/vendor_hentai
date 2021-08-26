@@ -42,5 +42,4 @@ PRODUCT_PACKAGES += \
 	com.google.android.sdkext \
 	com.google.android.telephony \
 	com.google.android.tethering \
-	com.google.android.tzdata2 \
-	com.google.android.wifi
+	com.google.android.tzdata2
